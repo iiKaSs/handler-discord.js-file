@@ -1,8 +1,8 @@
 # handler discord.js file
 - handler from eissa.js !
 - that files from eissa.js
-# codes :
-- codes is here : https://discord.gg/4HkGZ9CHt7    
+# Passwords :
+- WinRAR Password : Eissa.js
 # install this ! :
 - npm init
 - npm install
@@ -10,5 +10,5 @@
 
 # support :
 - **do you need help ?**
-- **join to eissa server** : https://discord.gg/6nqR7CxhEA
+- **join to Eissa.js server** : https://discord.gg/6nqR7CxhEA
 - `last update in : 7/17/2022 12:21 PM`
